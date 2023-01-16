@@ -1,0 +1,66 @@
+- title: Informations générales
+  type: map
+  contents:
+    - name: Nom et prénom
+      value: Florian Pasco
+    - name: Email
+      value: florianpasco@protonmail.com
+    - name: Portable
+      value: 07 67 64 79 28
+    - name: Permis B
+      value: oui
+    - name: Date de naissance
+      value: 15 Juillet 2002
+    - name: Langues
+      value: Anglais, Espagnol, Allemand(niveau débutant)
+    - name: Compétences
+      value: Unity Pro, PC Vue, Vijeo Designer, Catia, C/C++, Python, Ladder, Grafcet, Rust, LTSpice, Systèmes SLIT
+- title: Experiences professionnelles
+  type: time_table
+  contents:
+    - title: Agent de nettoyage
+      institution: Samsic Propreté , Brest (29), France
+      year: 07/2022 – 08/2022
+      description:
+        - Entretien des locaux.
+        - Balisage des zones glissante.
+    - title: "Stage ouvrier : Ouvrier du batiment"
+      institution: LE DANVIC Constructions, Inguiniel (56), France
+      year: 01/2022 – 01/2022
+      description:
+        - Réalisation de mortier et de béton.
+        - Réalisation de coffrage et pause d’aggloméré.
+    - title: Opérateur de ligne
+      institution: D’aucy Le Faouët, Le Faouët (56), France
+      year: 06/2021 – 07/2021
+      description:
+        - Surveillance de ligne
+        - Réparation élémentaire
+    - title: Professeur à domicile de mathématiques et Informatique
+      institution: Indépendant, Brest (29), France
+      year: 2021 | 2022
+    - title: Ouvrier agricole
+      institution: Monsieur Thierry Pasco, Inguiniel(56), France
+      year: 08/2020 – 08/2020
+- title: Formation
+  type: time_table
+  contents:
+    - title: Diplôme d'ingénieur
+      institution: École nationale d’ingénieurs de Brest, Brest, France
+      year: 09 2020 – en cours
+    - title: BAC Scientifique Option SVT Spécialité ISN
+      institution: Lycée Victor Hugo, Hennebont, France
+      year: 09 2017 – 06 2020
+- title: Loisirs
+  type: nested_list
+  contents:
+    - title: ENIB Cafeteria Association.
+      items: 
+        - Secrétaire.
+        - Responsable de l’approvisionnement "CROUS".
+    - title: Programation Informatique/Arduino.
+      items:
+        - Utilisation de C, C#, Python, Sqlite, etc.
+    - title: Cyclisme.
+      items:
+        - Pratique du sport et entretien mécanique.
