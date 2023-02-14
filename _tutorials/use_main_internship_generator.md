@@ -11,7 +11,7 @@ Tout d'abord, assurer vous de bien avoir Python d'installé sur votre machine ai
 
 ## Le bot
 
-J'ai crée au fil des années mon propre bot qui me sert grandement à gagner du temps lors de mes demandes de stages. Il vous sera simplement demander de disposer d'une email afin que le bot puisse en faire usage pour envoyer des mails ansi que d'un accès SMTP à celle-ci. Cet accès est facilement trouvable après quelques recherches et est souvent utilisé pour faire usage de certains services tel que ThunderBird.
+J'ai crée au fil des années mon propre bot qui me sert grandement à gagner du temps lors de mes demandes de stages. Il vous sera simplement demander de disposer d'une email afin que le bot puisse en faire usage pour envoyer des mails ainsi que d'un accès SMTP à celle-ci. Cet accès est facilement trouvable après quelques recherches et est souvent utilisé pour faire usage de certains services tel que ThunderBird.
 
 ### Usage
 Pour utiliser le bot,
