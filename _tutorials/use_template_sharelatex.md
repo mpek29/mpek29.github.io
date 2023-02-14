@@ -6,7 +6,7 @@ importance: 1
 
 Si vous souhaitez réaliser un compte-rendu de projet ou bien de stage avec un aspect professionnel, vous pouvez utiliser le langage Latex. Sur cette page, je vais vous décrire comment faire usage de mon template servant à mes comptes-rendus de projet (plusieurs d'entre eux sont disponibles dans la section « projet » du site où vous vous trouvez.)
 
-# Éditeur Latex
+## Éditeur Latex
 Tout d'abord, afin de transformer, vos documents rédigés en LaTex en un pdf, vous aurez besoin d'un éditeur Latex.
 
 Ici, je vous proposerais de faire usage de l'outil [ShareLaTex](https://latex.enib.fr/project) de l'ENIB si vous en êtes un étudiant ou bien de vous rendre sur [Overleaf](https://www.overleaf.com).
@@ -15,7 +15,7 @@ Il vous suffira de vous connecter sur ces différents services (l'usage du [Shar
 
 L'avantage de ces éditeurs résident dans leurs présences en ligne qui facilite le travail de groupe. Si vous souhaitez plutôt travailler de façon individuelle, je vous recommande le tutoriel qui est d'écrit  [ici](https://vincentchoqueuse.github.io/personal_website/tutorials/latex_document.html).
 
-# Templates
+## Templates
 
 J'ai crée au fil des années mon propre template qui me sers de base pour tous mes rapports celui-ci fut dans un premier temps une copie la plus proche de l'original que j'ai réalisé d'un exemple de rapport proposé lors de mon cours de BDD S3 puis je l'ai amélioré au fil du temps et de mes besoins personnel mais aussi en empruntant certaines caractéristiques de celui-ci :
 
@@ -41,7 +41,7 @@ Et c'est ainsi que j'ai créé ce template <https://github.com/mpek29/mpek29-lat
     </div>
 </div>
 
-## Usage
+### Usage
 Pour utiliser un modèle,
 
 1. Rendez-vous sur la page GitHub de celui-ci (par exemple les liens ci-dessus).
