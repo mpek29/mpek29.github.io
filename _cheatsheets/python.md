@@ -4,7 +4,7 @@ title: Python 3
 importance: 1
 ---
 
-## Notions de variables
+## Notion de variable
 La notion de variable désigne un conteneur ayant pour but de stocker une **valeur** sous forme de donnée ayant une **adresse mémoire** propre.
 
 ## Les principaux types de données
@@ -21,7 +21,7 @@ Les **valeurs** énoncées dans la partie précédente sont d'un type précis, i
 <br>
 
 ## Opérateurs
-Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisé pour faire usage d'instruction conditionnelle).
+Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisé pour faire usage d'instruction conditionnelle ou d'instruction de boucle de la forme `while`).
 
 | Différents opérateurs     | Types de données
 | :------------------------ | :------------------------------- |
