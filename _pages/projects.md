@@ -15,7 +15,7 @@ display_categories: [C/C++, Python, Elec. analogique, SQLite3, Qt, Java, Kotlin,
     <!-- Categories -->
     {%- for category in page.display_categories %}
     <li class="nav-item ">
-      <a class="nav-link">CV</a>
+      <a class="nav-link">{{ category }}</a>
     </li>
     {%- endfor %}
   </ul>
