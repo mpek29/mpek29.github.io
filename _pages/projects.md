@@ -5,7 +5,7 @@ permalink: /projects/
 description: Voici une liste des projets que j'ai réalisé ou auquel j'ai participé.
 nav: true
 nav_order: 2
-display_categories: [Elec. num, Elec. Analogique, Conception méca., Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3), Conception auto.,  Sciences humaines]
+display_categories: [Elec. num, Elec. Analogique, Conception méca., Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3), Conception auto.,  Sciences humaines]
 ---
 
 <!-- pages/projects.md -->
