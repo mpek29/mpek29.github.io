@@ -2,7 +2,7 @@
 layout: page
 title: Pense-bêtes
 permalink: /cheatsheets/
-description: Voici une liste de cheatsheet très utiles !
+description: Voici une liste de pense-bêtes très utiles !
 nav: true
 nav_order: 2
 ---
