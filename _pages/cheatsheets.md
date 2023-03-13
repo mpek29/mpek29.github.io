@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cheatsheets
+title: Pense-bêtes
 permalink: /cheatsheets/
 description: Voici une liste de cheatsheet très utiles !
 nav: true
