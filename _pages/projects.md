@@ -5,30 +5,33 @@ permalink: /projects/
 description: Voici une liste des projets que j'ai réalisé ou auquel j'ai participé.
 nav: true
 nav_order: 2
-display_categories: [C/C++, Python, Elec. analogique, SQLite3, Qt, Java, Kotlin, Rust, Elec. numérique, Conception méca. (CAO)]
+display_categories: [Automatisme, Utilitaire, Electronique, Informatique, Mécanique, Sciences humaines, Jeux]
 ---
+
 <!-- pages/projects.md -->
 <div class="projects">
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm">
-    <div class="container">
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap">
-          <!-- Categories -->
-          {%- for category in page.display_categories %}
-          <li class="nav-item ">
-            <nobr><a class="nav-link">{{ category }}</a></nobr>
-          </li>
-          {%- endfor %}
-        </ul>
-      </div>
-    </div>
-  </nav>
-
-  <!-- Generate cards for each project -->
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
   <div class="grid">
-    {%- for project in categorized_projects -%}
+    {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
   </div>
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+{%- endif -%}
 </div>

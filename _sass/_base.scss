@@ -74,7 +74,7 @@ body.sticky-bottom-footer {
  padding-bottom:0
 }
 .container {
- max-width:900px
+ max-width:800px
 }
 .profile img {
  width:100%
@@ -222,8 +222,7 @@ blockquote {
  box-shadow:none;
  border-bottom:1px solid var(--global-divider-color);
  background-color:var(--global-bg-color);
- opacity:0.95;
- margin-bottom: 10px;
+ opacity:0.95
 }
 .navbar .dropdown-menu {
  background-color:var(--global-bg-color);
@@ -467,14 +466,6 @@ footer.sticky-bottom {
  width:250px;
  margin-bottom:10px
 }
-
-.projects .grid {
- position: relative;
- height: 2423.98px;
- margin-right: 50px;
- margin-left: 50px;
-}
-
 .projects h2.category {
  color:var(--global-divider-color);
  border-bottom:1px solid var(--global-divider-color);
@@ -512,38 +503,6 @@ footer.sticky-bottom {
  margin-top:2rem;
  margin-bottom:1rem;
  text-align:right
-}
-.nav-proj {
-  -moz-box-align: center;
-  align-items: center;
-  -moz-box-pack: center;
-  justify-content: center;
-  min-height: 43px;
-  display: -ms-flexbox !important;
-  display: flex !important;
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-  box-sizing: border-box;
-}
-.nav-btn {
-  color: rgb(0, 0, 0);
-  background: #fff;
-  padding: 5px 0px;
-  margin: 0px 10px 0px 0px;
-  font-size: calc(var(--font-sm) + 0.9px);
-  transition: all 0.3s ease 0s;
-  cursor: pointer;
-  border: medium none;
-  border-radius: 5px;
-  -webkit-appearance: button;
-  font-family: "Blorado", sans-serif;
-  text-rendering: geometricprecision;
-  text-transform: none;
-  overflow: visible;
-  line-height: inherit;
-  box-sizing: border-box;
-  font-family: "Roboto",sans-serif;
 }
 .tutorials a {
  text-decoration:none
@@ -778,7 +737,6 @@ d-appendix a:hover,
 d-appendix a.footnote-backlink:hover {
  color:var(--global-hover-color) !important
 }
-
 @media (max-width: 1024px) {
  d-article d-contents {
   display:block;
