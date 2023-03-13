@@ -223,6 +223,7 @@ blockquote {
  border-bottom:1px solid var(--global-divider-color);
  background-color:var(--global-bg-color);
  opacity:0.95
+ margin-bottom: 10px;
 }
 .navbar .dropdown-menu {
  background-color:var(--global-bg-color);
@@ -470,7 +471,6 @@ footer.sticky-bottom {
 .projects .grid {
  position: relative;
  height: 2423.98px;
- width: 770px;
  margin-right: 50px;
  margin-left: 50px;
 }
