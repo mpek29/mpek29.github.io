@@ -2,7 +2,7 @@
 layout: page
 title: Cheatsheets
 permalink: /cheatsheets/
-description: Voici une liste de tutoriel très utiles !
+description: Voici une liste de cheatsheet très utiles !
 nav: true
 nav_order: 2
 ---
