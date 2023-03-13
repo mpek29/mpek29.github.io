@@ -5,7 +5,7 @@ description: Base de donnée SQLite3
 img: assets/img/projects/uci_bdd/main.jpg
 pdf: Pasco_UnionCyclisteInternationale.pdf
 importance: 2
-category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Dans le cadre de mon cours sur les bases de données, j'ai eu l'occasion de réaliser en SQLite une base de données permettant la gestion des coureurs appartenants aux différentes équipes World Tour affiliée à l'Union Cycliste Internationale.

@@ -4,7 +4,7 @@ title: Z'EthyDex
 description: Application Android Open-Source
 img: assets/img/projects/zethydex/main.jpg
 importance: 1
-category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Durant mon été 2022, je me suis fixé comme objectif de réaliser ma première application mobile à l'aide d'Android Studio.

@@ -4,7 +4,7 @@ title: Salaun
 description: RPG en Unity3D C#
 img: assets/img/projects/salaun/main.jpg
 importance: 4
-category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Salaun est un jeu narratif à la troisième personne dans lequel le joueur vit l'histoire d'un jeune Breton qui a terminé ses études.

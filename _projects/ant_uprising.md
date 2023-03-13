@@ -4,7 +4,7 @@ title: Ant Uprising
 description: Jeu de platforme en Unity3D C#
 img: assets/img/projects/ant_uprising/main.jpg
 importance: 3
-category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Ant Uprising : The Underground War est un petit jeu en 2D que j'ai réalisé avec une équipe de collègue de mon école d'ingénieur durant la Global Game Jam 2023. Dans ce jeu, vous incarnerez une fourmi dans une fourmilière recouverte de racines (le thème de la Jam était "Root"). Votre but est de récolter quelques fruits pour nourrir votre reine. Méfiez-vous, des ennemis seront là pour vous arrêter.

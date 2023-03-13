@@ -4,7 +4,7 @@ title: Cube Course 2D
 description: Jeu de platforme en Python
 img: assets/img/projects/cc2d/main.jpg
 importance: 7
-category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Cube Course 2D est un jeu de plates-formes dans lequel le joueur doit rester en vie le plus longtemps !

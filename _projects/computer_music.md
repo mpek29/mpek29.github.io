@@ -4,7 +4,7 @@ title: Mini logiciel de MAO
 description: Synthétisation d'une musique en Rust
 img: assets/img/projects/computer_music/main.jpg
 importance: 2
-category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Dans le cadre de notre cours de programmation, nous avons réalisé un projet de mini-logiciel de mao répondant à 2 objectifs :
