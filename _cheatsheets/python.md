@@ -17,6 +17,7 @@ Les **valeurs** énoncées dans la partie précédente sont d'un type précis, i
 | Types de séquence      | `list`, `tuple`, `range`  |
 | Type de mappage        | `dict`                    |
 | Type booléen           | `bool`                    |
+
 <br>
 
 ## Opérateurs
@@ -27,6 +28,7 @@ Il est possible de faire interagir les variables entre elles à l'aide d'opérat
 | Opérateurs de comparaison | `==`, `!=`, `>`, `<`, `>=`, `<=` |
 | Opérateurs logiques       | `and`, `or`, `not`               |
 | Opérateurs d'appartenance | `in`, `not in`                   |
+
 <br>
 
 ## `if` Instruction conditionnelle
