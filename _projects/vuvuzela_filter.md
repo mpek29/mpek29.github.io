@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projet Vuvuzela
-description: Mise en place d’un filtre «anti-vuvuzela» pour atténuer les sonorités de celui-ci.
+title: Filtre «anti-vuvuzela»
+description: Filtre analogique atténuant les sonorités du vuvuzela
 img: assets/img/projects/vuvuzela_filter/main.jpg
 pdf: Compte_rendu_Vuvuzela___LONDE_PASCO_VASSEUR__VITON.pdf
-importance: 16
-category: Electronique
+importance: 1
+category: Elec. Analogique
 ---
 
 Dans le cadre de mon cours sur les filtres analogiques de second ordre (et plus), j'ai eu l'occasion de mettre en place un filtre « anti-vuvuzela » pour atténuer les sonorités de celui-ci.

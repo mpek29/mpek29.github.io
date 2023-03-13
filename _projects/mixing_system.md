@@ -4,7 +4,7 @@ title: Automatisation d'un système de malaxage élémentaire
 description: "Environnement de supervision d'un système: paramètrage, alarmes, gestion des prioriété et mise en lien d'une IHM avec celui-ci"
 img: assets/img/projects/mixing_system/main.jpg
 importance: 1
-category: Automatisme
+category: Conception auto.
 ---
 
 Dans le cadre de mon cours d'automatisme, j'ai eu l'occasion de travailler sur l'automatisation d'un système de malaxage élémentaire industriel à l'aide d'un API (Automate Programmable Industriel) de la marque Schneider Electric.

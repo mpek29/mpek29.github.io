@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Encodage Naturel par Images de Bichons (ENIB)
-description: synthétisation d'image à partir d'un ensemble de photo de chien et de chat
+title: Bichons
+description: Synthèse d'image en Python
 img: assets/img/projects/natural_encoding_bichons/main.jpg
-importance: 9
+importance: 6
 category: Informatique
 ---
 

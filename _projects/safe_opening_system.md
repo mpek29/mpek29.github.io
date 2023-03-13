@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Réalisation d’un système d’ouverture de coffre
-description: (analyse d’un télémètre acoustique en bonus)
+title: Système d’ouverture de coffre
+description: Machine à état numérique
 img: assets/img/projects/safe_opening_system/main.jpg
 pdf: safe_opening_system.pdf
-importance: 14
-category: Electronique
+importance: 1
+category: Elec. num
 ---
 
 Dans le cadre de mon cours sur les circuits numérique séquentiel, j'ai eu l'occasion de réaliser une machine à état gérant l'ouverture et la fermeture d'un coffre-fort.

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Z'EthyDex
-description: L'appli préféré des Z'Ethy
+description: Application Android Open-Source
 img: assets/img/projects/zethydex/main.jpg
-importance: 16
-category: Utilitaire
+importance: 1
+category: Programmation informatique(Python, Rust, Unity C#, Kotlin et SQLite3)
 ---
 
 Durant mon été 2022, je me suis fixé comme objectif de réaliser ma première application mobile à l'aide d'Android Studio.

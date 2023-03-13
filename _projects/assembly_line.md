@@ -4,7 +4,7 @@ title: Automatisation d'une maquette de chaîne d’assemblage en milieu industr
 description: Cahier des charges, Grafcet et IHM
 img: assets/img/projects/assembly_line/main.jpg
 importance: 2
-category: Automatisme
+category: Conception auto.
 ---
 
 Dans le cadre de mon cours d'automatisme, j'ai eu l'occasion d'automatiser une maquette de chaîne d’assemblage en milieu industriel à l'aide d'un API (Automate Programmable Industriel) de la marque Schneider Electric.
