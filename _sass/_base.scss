@@ -504,6 +504,38 @@ footer.sticky-bottom {
  margin-bottom:1rem;
  text-align:right
 }
+.nav-proj {
+  -moz-box-align: center;
+  align-items: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  min-height: 43px;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+.nav-btn {
+  font-weight: 900 !important;
+  color: rgb(232, 232, 232);
+  background: var(--gray-dark);
+  padding: 5px 22px;
+  margin: 0px 1rem 0px 0px;
+  font-size: calc(var(--font-sm) + 0.9px);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  border: medium none;
+  border-radius: 5px;
+  -webkit-appearance: button;
+  font-family: "Blorado", sans-serif;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  overflow: visible;
+  line-height: inherit;
+  box-sizing: border-box;
+}
 .tutorials a {
  text-decoration:none
 }
@@ -736,40 +768,6 @@ d-appendix a.footnote-backlink {
 d-appendix a:hover,
 d-appendix a.footnote-backlink:hover {
  color:var(--global-hover-color) !important
-}
-
-.nav-proj {
-  -moz-box-align: center;
-  align-items: center;
-  -moz-box-pack: center;
-  justify-content: center;
-  min-height: 43px;
-  display: -ms-flexbox !important;
-  display: flex !important;
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-.nav-btn {
-  font-weight: 900 !important;
-  color: rgb(232, 232, 232);
-  background: var(--gray-dark);
-  padding: 5px 22px;
-  margin: 0px 1rem 0px 0px;
-  font-size: calc(var(--font-sm) + 0.9px);
-  transition: all 0.3s ease 0s;
-  cursor: pointer;
-  border: medium none;
-  border-radius: 5px;
-  -webkit-appearance: button;
-  font-family: "Blorado", sans-serif;
-  text-rendering: geometricprecision;
-  text-transform: none;
-  overflow: visible;
-  line-height: inherit;
-  box-sizing: border-box;
 }
 
 @media (max-width: 1024px) {
