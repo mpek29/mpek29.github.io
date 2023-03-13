@@ -7,7 +7,6 @@ importance: 1
 ## Notions de variables
 La notion de variable désigne un conteneur ayant pour but de stocker une **valeur** sous forme de donnée ayant une **adresse mémoire** propre.
 
-
 ## Les principaux types de données
 Les **valeurs** énoncées dans la partie précédente sont d'un type précis, ici on décrire les principaux types de données.
 
@@ -18,7 +17,7 @@ Les **valeurs** énoncées dans la partie précédente sont d'un type précis, i
 | Types de séquence      | `list`, `tuple`, `range`  |
 | Type de mappage        | `dict`                    |
 | Type booléen           | `bool`                    |
-
+<br>
 
 ## Opérateurs
 Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisé pour faire usage d'instruction conditionnelle).
@@ -28,7 +27,7 @@ Il est possible de faire interagir les variables entre elles à l'aide d'opérat
 | Opérateurs de comparaison | `==`, `!=`, `>`, `<`, `>=`, `<=` |
 | Opérateurs logiques       | `and`, `or`, `not`               |
 | Opérateurs d'appartenance | `in`, `not in`                   |
-
+<br>
 
 ## `if` Instruction conditionnelle
 Une instruction conditionnelle est une instruction (appel de fonction, affectation de variable, etc.) qui sera ignorée ou considérée en fonction de la valeur du booléen placé à la suite du mot "if". Si ce booléen vaut True, l'instruction sera considérée et si ce booléen vaut False, l'instruction sera ignorée.
