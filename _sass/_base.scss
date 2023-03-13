@@ -518,11 +518,10 @@ footer.sticky-bottom {
   box-sizing: border-box;
 }
 .nav-btn {
-  font-weight: 900 !important;
-  color: rgb(232, 232, 232);
-  background: var(--gray-dark);
-  padding: 5px 22px;
-  margin: 0px 1rem 0px 0px;
+  color: rgb(0, 0, 0);
+  background: #fff;
+  padding: 5px 0px;
+  margin: 0px 10px 0px 0px;
   font-size: calc(var(--font-sm) + 0.9px);
   transition: all 0.3s ease 0s;
   cursor: pointer;
@@ -535,6 +534,7 @@ footer.sticky-bottom {
   overflow: visible;
   line-height: inherit;
   box-sizing: border-box;
+  font-family: "Roboto",sans-serif;
 }
 .tutorials a {
  text-decoration:none
