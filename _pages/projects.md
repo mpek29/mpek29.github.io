@@ -10,9 +10,9 @@ display_categories: [C/C++, Python, Elec. analogique, SQLite3, Qt, Java, Kotlin,
 <!-- pages/projects.md -->
 <div class="projects">
   <h2 class="category">{{ category }}</h2>
-  <nav>
+  <nav class="nav-proj" role="tablist">
     {%- for category in page.display_categories %}
-    <button>{{ category }}</button>
+    <button class="nav-btn" type="button" id="cardHover" aria-label="Open All" aria-current="All">{{ category }}</button>
     {%- endfor %}
   </nav>
   <!-- Generate cards for each project -->
