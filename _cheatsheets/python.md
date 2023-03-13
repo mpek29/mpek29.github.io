@@ -10,24 +10,24 @@ La notion de variable désigne un conteneur ayant pour but de stocker une **vale
 ## Les principaux types de données
 Les **valeurs** énoncées dans la partie précédente sont d'un type précis, ici on décrire les principaux types de données.
 
-| Catégories de données  | Types de données
-| :--------------------- | :------------------------ |
-| Type de texte          | `str`                     |
-| Types numériques       | `int`, `float`, `complex` |
-| Types de séquence      | `list`, `tuple`, `range`  |
-| Type de mappage        | `dict`                    |
-| Type booléen           | `bool`                    |
+| Catégories de données            | Types de données
+| :------------------------------- | :------------------------ |
+| Type de texte                    | `str`                     |
+| Types numériques                 | `int`, `float`, `complex` |
+| Types de séquence                | `list`, `tuple`, `range`  |
+| Type de mappage                  | `dict`                    |
+| Type booléen                     | `bool`                    |
 
 <br>
 
 ## Opérateurs
 Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisé pour faire usage d'instruction conditionnelle ou d'instruction de boucle de la forme `while`).
 
-| Différents opérateurs     | Types de données
-| :------------------------ | :------------------------------- |
-| Opérateurs de comparaison | `==`, `!=`, `>`, `<`, `>=`, `<=` |
-| Opérateurs logiques       | `and`, `or`, `not`               |
-| Opérateurs d'appartenance | `in`, `not in`                   |
+| Différents opérateurs            | Types de données
+| :--------------------------------| :------------------------------- |
+| Opérateurs de comparaison        | `==`, `!=`, `>`, `<`, `>=`, `<=` |
+| Opérateurs logiques              | `and`, `or`, `not`               |
+| Opérateurs d'appartenance        | `in`, `not in`                   |
 
 <br>
 
