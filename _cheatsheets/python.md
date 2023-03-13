@@ -13,31 +13,23 @@ La notion de variable désigne des conteneurs pour stocker des **valeurs** sous 
 ## Les principaux types de données
 Les **valeurs** énoncée dans la partie précédente sont d'un type précis, ici on décrire les principaux types de données.
 
-  -------------------------------------------------
-  Catégories de données  Types de données          
-  ---------------------- --------------------------
-  Type de texte          `str`
-
-  Types numériques       `int`, `float`, `complex`
-
-  Types de séquence      `list`, `tuple`, `range`
-
-  Type de mappage        `dict`
-
-  Type booléen           `bool`
-  ------------------------------------------------
+| Catégories de données  | Types de données
+| :--------------------- | :------------------------ |
+| Type de texte          | `str`                     |
+| Types numériques       | `int`, `float`, `complex` |
+| Types de séquence      | `list`, `tuple`, `range`  |
+| Type de mappage        | `dict`                    |
+| Type booléen           | `bool`                    |
 
 ## Opérateurs
 Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisé pour faire usage d'instruction conditionnelle).
 
-  -----------------------------------------------------------
-  Différents opérateurs      Types de données          
-  -------------------------- --------------------------------
-  Opérateurs de comparaison  `==`, `!=`, `>`, `<`, `>=`, `<=`
+| Différents opérateurs     | Types de données
+| :------------------------ | :------------------------------- |
+| Opérateurs de comparaison | `==`, `!=`, `>`, `<`, `>=`, `<=` |
+| Opérateurs logiques       | `and`, `or`, `not`               |
+| Opérateurs d'appartenance | `in`, `not in`                   |
 
-  Opérateurs logiques        `and`, `or`, `not`
-
-  Opérateurs d'appartenance  `in`, `not in`
   -----------------------------------------------------------
 
 ## `if` Instruction conditionnelle
