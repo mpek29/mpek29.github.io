@@ -8,8 +8,8 @@ middle_name:
 last_name: Florian
 email: florianpasco@protonmail.com
 description: >
-  Voici mon portfolio ! Ici vous avez accès à une présentation de mes différents projets mais aussi à différents tutoriels que j'ai rédigé.
-keywords: portfolio, projects, projets, tutoriels, tutorials, florianpasco, student, french
+  Voici mon portfolio ! Ici vous avez accès à une présentation de mes différents projets mais aussi à différents tutoriels et cheatsheets que j'ai rédigé.
+keywords: portfolio, projects, projets, tutoriels, tutorials, florianpasco, student, french, cheatsheets
 
 lang: fr
 icon: favicon.jpg
@@ -113,6 +113,9 @@ collections:
   tutorials:
     output: true
     permalink: /tutorials/:path/
+  cheatsheets:
+    output: true
+    permalink: /cheatsheets/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

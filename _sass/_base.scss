@@ -79,6 +79,17 @@ body.sticky-bottom-footer {
 .profile img {
  width:100%
 }
+.ul-cheatsheet {
+ padding-left: 0px;
+}
+.li-cheatsheet {
+ list-style:none;
+ margin-bottom:.2em
+}
+li[class^="li-cheatsheet"]>a {
+ list-style:none;
+ font-size:1.1em
+}
 .ul-tuto {
  padding-left: 0px;
 }
@@ -456,6 +467,36 @@ footer.sticky-bottom {
  margin-bottom:10px
 }
 .projects h2.category {
+ color:var(--global-divider-color);
+ border-bottom:1px solid var(--global-divider-color);
+ padding-top:0.5rem;
+ margin-top:2rem;
+ margin-bottom:1rem;
+ text-align:right
+}
+.cheatsheets a {
+ text-decoration:none
+}
+.cheatsheets a:hover .card-title {
+ color:var(--global-theme-color)
+}
+.cheatsheets .card img {
+ width:100%
+}
+.cheatsheets .card-item {
+ width:auto;
+ margin-bottom:10px
+}
+.cheatsheets .card-item .row {
+ display:flex;
+ align-items:center
+}
+.cheatsheets .grid-sizer,
+.cheatsheets .grid-item {
+ width:250px;
+ margin-bottom:10px
+}
+.cheatsheets h2.category {
  color:var(--global-divider-color);
  border-bottom:1px solid var(--global-divider-color);
  padding-top:0.5rem;
