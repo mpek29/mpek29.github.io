@@ -9,12 +9,6 @@ display_categories: [C/C++, Python, Elec. analogique, SQLite3, Qt, Java, Kotlin,
 ---
 <!-- pages/projects.md -->
 <div class="projects">
-  <h2 class="category">{{ category }}</h2>
-
-  <ul class="navbar-nav ml-auto flex-nowrap">
-    
-  </ul>
-
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm">
     <div class="container">
       <div class="collapse navbar-collapse text-right" id="navbarNav">
