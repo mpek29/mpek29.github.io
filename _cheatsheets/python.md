@@ -39,7 +39,6 @@ if True :
   print('Ceci sera affiché')
 else:
   print('Ceci ne sera pas affiché')
-
 ```
 
 ``` python
@@ -47,7 +46,6 @@ if False :
   print('Ceci ne sera pas affiché')
 else:
   print('Ceci sera affiché')
-
 ```
 
 
@@ -58,13 +56,11 @@ Une instruction de boucle de la forme `while` est très proche d'une instruction
 ``` python
 while True :
   print('Ceci sera répété en boucle')
-
 ```
 
 ``` python
 while False :
   print('Ceci ne sera pas répété en boucle')
-
 ```
 
 
@@ -76,14 +72,12 @@ On peut parcourir ainsi une liste de façon on ne peut plus classique.
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
-
 ```
 
 On peut incrémenter une valeur au fur et à mesure des répétitions d'un boucle grace à range().
 ``` python
 for x in range(2, 6):
   print(x)
-
 ```
 
 Cela peut nous amener à une alternative de la première boucle permettant de garder en note l'indice de l'éléments courant.
@@ -91,7 +85,6 @@ Cela peut nous amener à une alternative de la première boucle permettant de ga
 fruits = ["apple", "banana", "cherry"]
 for i in range(len(fruits)):
   print(fruits[i])
-
 ```
 
 
