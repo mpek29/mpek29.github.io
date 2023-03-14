@@ -4,7 +4,7 @@ title: Bichons
 description: Synthèse d'image en Python
 img: assets/img/projects/natural_encoding_bichons/main.jpg
 importance: 6
-category: Informatique
+category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
 ---
 
 Le but de projet a été de travailler avec une base de "bichons" (ensemble de photo de chien et de chat) et de réaliser à l'aide de celle-ci une image "synthétique" de la première.
