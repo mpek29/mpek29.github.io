@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Automatisation d'une maquette de chaîne d’assemblage en milieu industriel
-description: Cahier des charges, Grafcet et IHM
+title: Ligne d'assemblage
+description: Cahier des charges, Grafcet et IHM d'un système automatisé
 img: assets/img/projects/assembly_line/main.jpg
 importance: 2
 category: Conception auto.

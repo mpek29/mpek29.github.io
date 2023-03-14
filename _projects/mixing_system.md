@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Automatisation d'un système de malaxage élémentaire
-description: "Environnement de supervision d'un système: paramètrage, alarmes, gestion des prioriété et mise en lien d'une IHM avec celui-ci"
+title: Système de malaxage
+description: Supervision d'un système automatisé
 img: assets/img/projects/mixing_system/main.jpg
 importance: 1
 category: Conception auto.
