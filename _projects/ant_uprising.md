@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ant Uprising
-description: Jeu de platforme en Unity3D C#
+description: Jeu de platforme en Unity C#
 img: assets/img/projects/ant_uprising/main.jpg
 importance: 3
 category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)

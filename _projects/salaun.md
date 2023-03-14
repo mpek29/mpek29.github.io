@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Salaun
-description: RPG en Unity3D C#
+description: RPG en Unity C#
 img: assets/img/projects/salaun/main.jpg
 importance: 4
 category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Z'EthyDex
-description: Application Android Open-Source
+description: Application Android Open-Source en Kotlin
 img: assets/img/projects/zethydex/main.jpg
 importance: 1
 category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)

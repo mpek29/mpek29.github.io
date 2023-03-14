@@ -70,7 +70,7 @@ Une instruction de boucle de la forme `for` permet essentiellement de parcourir 
 On peut parcourir ainsi une liste de façon on ne peut plus classique.
 ``` python
 fruits = ["apple", "banana", "cherry"]
-for x in fruits:
+for fruit in fruits:
   print(x)
 ```
 
@@ -84,7 +84,8 @@ Cela peut nous amener à une alternative de la première boucle permettant de ga
 ``` python
 fruits = ["apple", "banana", "cherry"]
 for i in range(len(fruits)):
-  print(fruits[i])
+  fruit = fruits[i]
+  print(fruit)
 ```
 
 
