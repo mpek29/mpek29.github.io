@@ -115,12 +115,22 @@ span,
 strong {
  color:var(--global-text-color)
 }
+strong {
+  font-weight: 550;
+}
 hr {
  border-top:1px solid var(--global-divider-color)
 }
-table td,
-table th {
- color:var(--global-text-color)
+table td, table th {
+  color: var(--global-text-color);
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
 }
 table td {
  font-size:1rem
