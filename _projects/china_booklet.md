@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livret "La brochure du manifestant informé"
+title: Brochure du manifestant informé
 description: Alternative à la techno sécurité chinoise
 img: assets/img/projects/china_booklet/main.jpg
 importance: 3
