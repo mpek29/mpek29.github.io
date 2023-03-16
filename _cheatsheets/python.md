@@ -8,7 +8,7 @@ importance: 1
 La notion de variable désigne un conteneur ayant pour but de stocker une **valeur** sous forme de donnée ayant une **adresse mémoire** propre.
 
 ## Les principaux types de données
-Les **valeurs** énoncées dans la partie précédente sont d'un type précis, ici on décrire les principaux types de données.
+Les **valeurs** énoncées dans la partie précédente sont d'un type précis, ici on décrit les principaux types de données.
 
 | **Catégories de données**  | **Types de données**        |
 |--------------------------  |---------------------------  |
@@ -74,13 +74,13 @@ for fruit in fruits:
   print(x)
 ```
 
-On peut incrémenter une valeur au fur et à mesure des répétitions d'un boucle grace à range().
+On peut incrémenter une valeur au fur et à mesure des répétitions d'un boucle grâce à range().
 ``` python
 for x in range(2, 6):
   print(x)
 ```
 
-Cela peut nous amener à une alternative de la première boucle permettant de garder en note l'indice de l'éléments courant.
+Cela peut nous amener à une alternative de la première boucle permettant de garder en note l'indice de l'élément courant.
 ``` python
 fruits = ["apple", "banana", "cherry"]
 for i in range(len(fruits)):
@@ -88,6 +88,49 @@ for i in range(len(fruits)):
   print(fruit)
 ```
 
+## Fonctions
+
+### Création
+Pour définir une fonction, on utilise le mot-clé `def`.
+``` python
+def my_function():
+  print("Hello from a function") 
+```
+
+### Appel
+Pour appeler une fonction, utilisez le nom de la fonction suivi de parenthèse.
+``` python
+my_function()
+```
+
+### Arguments
+Il est possible de transmettre des valeurs qui changeront à chaque appel d'une fonction à l'aide d'arguments. Ces valeurs peuvent être contenues dans des variables dont on indiquera le nom ou alors on pourra directement donner les valeurs souhaitées. Les arguments sont spécifiés après le nom de la fonction, entre parenthèses. Il n'y a pas de limites dans le nombre d'arguments, il suffit juste de les séparer entre eux à l'aide d'une virgule.
+
+``` python
+def my_function(fname):
+  print(fname + " Refsnes")
+
+my_function("Emil")
+my_function("Tobias")
+my_function("Linus") 
+```
+L'exemple ci-dessus présente une fonction avec un seul argument nommé "fname". À chaque fois que nous réalisons un appel de la fonction, nous transmettons un prénom, qui est utilisé à l'intérieur de la fonction pour imprimer le nom complet.
+
+### Recursion
+Une fonction est dite récursive si elle s'appelle elle-même.
+Il faut être très prudent avec la récursivité car il est très vite possible de tomber dans le cas d'une fonction qui ne se termine jamais ou qui a une consommation excessif de ressource.
+
+Un très bon exemple afin de se faire une idée de ce qu'est une fonction récursive et de son éventuel intérêt est la fonction `puissance()` ci-dessous. Il est à noter que dans un cas réel, il suffit de faire `print(y**n)`.
+
+``` python
+def puissance(y, n):
+    if n == 0:
+        return 1
+    else:
+        return y*puissance(y, n-1)
+
+print(puissance(2, 3))
+```
 
 ## Source
 - <https://www.w3schools.com/python/python_reference.asp>
