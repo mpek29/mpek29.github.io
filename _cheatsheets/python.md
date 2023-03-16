@@ -107,12 +107,13 @@ my_function()
 Il est possible de transmettre des valeurs qui changeront à chaque appel d'une fonction à l'aide d'arguments. Ces valeurs peuvent être contenues dans des variables dont on indiquera le nom ou alors on pourra directement donner les valeurs souhaitées. Les arguments sont spécifiés après le nom de la fonction, entre parenthèses. Il n'y a pas de limites dans le nombre d'arguments, il suffit juste de les séparer entre eux à l'aide d'une virgule.
 
 ``` python
-def my_function(fname):
-  print(fname + " Refsnes")
+def my_function(nickname):
+  print(f"Son surnom est: {nickname}")
 
-my_function("Emil")
-my_function("Tobias")
-my_function("Linus") 
+florian_nickname = "Palpek"
+my_function(florian_nickname)
+my_function("La Torche")
+my_function("Alphonse") 
 ```
 L'exemple ci-dessus présente une fonction avec un seul argument nommé "fname". À chaque fois que nous réalisons un appel de la fonction, nous transmettons un prénom, qui est utilisé à l'intérieur de la fonction pour imprimer le nom complet.
 
@@ -120,7 +121,7 @@ L'exemple ci-dessus présente une fonction avec un seul argument nommé "fname".
 Une fonction est dite récursive si elle s'appelle elle-même.
 Il faut être très prudent avec la récursivité car il est très vite possible de tomber dans le cas d'une fonction qui ne se termine jamais ou qui a une consommation excessif de ressource.
 
-Un très bon exemple afin de se faire une idée de ce qu'est une fonction récursive et de son éventuel intérêt est la fonction `puissance()` ci-dessous. Il est à noter que dans un cas réel, il suffit de faire `print(y**n)`.
+Un très bon exemple afin de se faire une idée de ce qu'est une fonction récursive et de son éventuel intérêt est la fonction `puissance(y, n)` ci-dessous. Il est à noter que dans un cas réel, il suffit de faire `print(y**n)`.
 
 ``` python
 def puissance(y, n):
