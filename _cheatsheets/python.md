@@ -21,7 +21,7 @@ Les **valeurs** énoncées dans la partie précédente sont d'un type précis, i
 <br>
 
 ## Opérateurs
-Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisé pour faire usage d'instruction conditionnelle ou d'instruction de boucle de la forme `while`).
+Il est possible de faire interagir les variables entre elles à l'aide d'opérateurs afin de générer des valeurs de type `bool` (qui pourront être par la suite utilisées pour faire usage d'instruction conditionnelle ou d'instruction de boucle de la forme `while`).
 
 | **Différents opérateurs**   | **Types de données**              |
 |---------------------------  |---------------------------------- |
@@ -51,7 +51,7 @@ else:
 
 ## Instructions de boucle
 ### `while`
-Une instruction de boucle de la forme `while` est très proche d'une instruction conditionnelle mis à part qu'au lieu de simplement ignorer ou considérer une instruction, on va répéter en boucle l'instruction temps que la valeur du booléen n'est pas False.
+Une instruction de boucle de la forme `while` est très proche d'une instruction conditionnelle mise à part qu'au lieu de simplement ignorer ou considérer une instruction, on va répéter en boucle l'instruction temps que la valeur du booléen n'est pas False.
 
 ``` python
 while True :
@@ -98,7 +98,7 @@ def my_function():
 ```
 
 ### Appel
-Pour appeler une fonction, utilisez le nom de la fonction suivi de parenthèse.
+Pour appeler une fonction, utilisez le nom de la fonction suivi de parenthèses.
 ``` python
 my_function()
 ```
@@ -117,9 +117,9 @@ my_function("Alphonse")
 ```
 L'exemple ci-dessus présente une fonction avec un seul argument nommé "fname". À chaque fois que nous réalisons un appel de la fonction, nous transmettons un prénom, qui est utilisé à l'intérieur de la fonction pour imprimer le nom complet.
 
-### Recursion
+### Récursivité
 Une fonction est dite récursive si elle s'appelle elle-même.
-Il faut être très prudent avec la récursivité car il est très vite possible de tomber dans le cas d'une fonction qui ne se termine jamais ou qui a une consommation excessif de ressource.
+Il faut être très prudent avec la récursivité car il est très vite possible de tomber dans le cas d'une fonction qui ne se termine jamais ou qui a une consommation excessive de ressource.
 
 Un très bon exemple afin de se faire une idée de ce qu'est une fonction récursive et de son éventuel intérêt est la fonction `puissance(y, n)` ci-dessous. Il est à noter que dans un cas réel, il suffit de faire `print(y**n)`.
 

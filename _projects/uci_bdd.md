@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Base de donnée UCI
-description: Base de donnée SQLite3
+title: Base de données UCI
+description: Base de données SQLite3
 img: assets/img/projects/uci_bdd/main.jpg
 pdf: Pasco_UnionCyclisteInternationale.pdf
 importance: 2

@@ -3,8 +3,7 @@ layout: page
 title: Réaliser une application Android de toute sorte
 importance: 2
 ---
-
-Si vous souhaitez réaliser une application android de toute sorte, vous pouvez utiliser le langage Kotlin et le logiciel Android Studio. Sur cette page, je vais vous décrire comment faire de façon optimal (à mes yeux) pour réaliser une application Android.
+Si vous souhaitez réaliser une application android de toute sorte, vous pouvez utiliser le langage Kotlin et le logiciel Android Studio. Sur cette page, je vais vous décrire comment faire de façon optimale (à mes yeux) pour réaliser une application Android.
 
 ### Méthode
 Pour créer une application Android,
@@ -17,7 +16,7 @@ Pour créer une application Android,
 
 4. Modifier l'activité principale enfin de permettre de passer d'une activité à une autre. Pour cela une navigation view est très pratique, mais vous pouvez également faire usage d'un `when()`.
 
-5. Réaliser un système de base de données (je vous conseille SQlite3 qui est open-source, mais il existe firebase aussi.)
+5. Réaliser un système de base de données (je vous conseil SQlite3 qui est open-source, mais il existe firebase aussi.)
 Attention, Sqlite3 crée une bdd en local alors que Firebase en crée une en ligne.
 
 6. Créer une interface pour ajouter ou modifier quelque chose dans une base de données

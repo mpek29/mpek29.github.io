@@ -4,7 +4,7 @@ title: Rédiger un document à l'aide de Latex
 importance: 1
 ---
 
-Si vous souhaitez réaliser un compte-rendu de projet ou bien de stage avec un aspect professionnel, vous pouvez utiliser le langage Latex. Sur cette page, je vais vous décrire comment faire usage de mon template servant à mes comptes-rendus de projet (plusieurs d'entre eux sont disponibles dans la section « projet » du site où vous vous trouvez.)
+Si vous souhaitez réaliser un compte-rendu de projet ou bien de stage avec un aspect professionnel, vous pouvez utiliser le langage Latex. Sur cette page, je vais vous décrire comment faire usage de mon template servant à mes comptes-rendus de projet (plusieurs d'entre eux sont disponibles dans la section « Projets » du site où vous vous trouvez.)
 
 ## Éditeur Latex
 Tout d'abord, afin de transformer, vos documents rédigés en LaTex en un pdf, vous aurez besoin d'un éditeur Latex.
@@ -17,7 +17,7 @@ L'avantage de ces éditeurs résident dans leurs présences en ligne qui facilit
 
 ## Templates
 
-J'ai crée au fil des années mon propre template qui me sers de base pour tous mes rapports celui-ci fut dans un premier temps une copie la plus proche de l'original que j'ai réalisé d'un exemple de rapport proposé lors de mon cours de BDD S3 puis je l'ai amélioré au fil du temps et de mes besoins personnel mais aussi en empruntant certaines caractéristiques de celui-ci :
+J'ai créé au fil des années mon propre template qui me sert de base pour tous mes rapports. Celui-ci fut dans un premier temps une copie la plus proche de l'original que j'ai réalisé d'un exemple de rapport proposé lors de mon cours de BDD S3 puis je l'ai amélioré au fil du temps et de mes besoins personnels mais aussi en empruntant certaines caractéristiques de celui-ci :
 
 - Template de rapport de Vincent Choqueuse <https://github.com/vincentchoqueuse/ENIB_latex_template> :
 

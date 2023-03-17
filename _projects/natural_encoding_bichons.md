@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bichons
-description: Synthèse d'image en Python
+description: Synthèse d'images en Python
 img: assets/img/projects/natural_encoding_bichons/main.jpg
 importance: 6
 category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)

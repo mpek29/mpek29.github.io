@@ -2,7 +2,7 @@
 layout: page
 title: Tutoriels
 permalink: /tutorials/
-description: Voici une liste de tutoriel très utiles !
+description: Voici une liste de tutoriels très utiles !
 nav: true
 nav_order: 2
 ---
