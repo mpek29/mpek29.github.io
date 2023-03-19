@@ -48,7 +48,7 @@ Installer le module complémentaire [mailmerge](https://addons.mozilla.org/fr/th
     <ul>
       <li>Cliquer sur **Parcourir** et indiquer le chemin vers le fichier .csv créé plus haut qui contient les données utiles au mailing.</li>
       <li>Dans le champ « Attachements », indiquer l'en-tête correspondant à la liste des fichiers (par exemple `{{Fichiers}}` précédé de **`file://`** seront utilisés comme pièces-jointes pour chaque envoi. Ces pièces-jointes pourront être différentes pour chaque message. Cliquer sur **OK** pour valider l'envoi immédiat des mails.</li> 
-      <li>En choisissant comme **Mode  de Livraison**: **Envoyer plus tard** ; les messages seront stockés dans **« Messages en attente »**. Cela permettra de vérifier l'exactitude des données. L'envoi définitif se fera en choisissant : **Fichier** > **Envoyer les messages en attente**</li>
+      <li>En choisissant comme **Mode  de Livraison**: **Envoyer plus tard** ; les messages seront stockés dans **« Messages en attente »**. Cela permettra de vérifier l'exactitude des données. L'envoi définitif devra se faire en choisissant : **Fichier** > **Envoyer les messages en attente**</li>
     <ul>
     <div class="row">
       <div class="col-sm mt-3 mt-md-0">
