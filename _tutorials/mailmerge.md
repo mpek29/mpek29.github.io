@@ -15,23 +15,26 @@ Si vous souhaitez réaliser un envoi massif et personnalisé de mail depuis Thun
 ## Créer la source de données dans un tableur
 Attention, il est à noter que cette extension de Thunderbird ne supporte pas les espaces et les caractères accentués que ce soit dans les noms de fichiers (fichier .csv source de données ou fichiers pièces jointes) ou dans les noms de colonnes de la source de données.
 
-1. Créer dans un tableur les différentes colonnes correspondant aux champs utiles pour le mail. Chaque colonne doit avoir un en-tête nommé ; nom, prenom, message, etc … Ces noms de colonnes ne doivent pas contenir d'espaces ou de caractères accentués. Compléter ensuite chaque colonnes avec les données personnalisés de chaque destinataires du mailing.
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<ol>
+  <li>Créer dans un tableur les différentes colonnes correspondant aux champs utiles pour le mail. Chaque colonne doit avoir un en-tête nommé ; nom, prenom, message, etc … Ces noms de colonnes ne doivent pas contenir d'espaces ou de caractères accentués. Compléter ensuite chaque colonnes avec les données personnalisés de chaque destinataires du mailing.
+    <div class="row">
+      <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/tutorials/mailmerge/mailmerge-1_1.png" class="img-fluid rounded z-depth-1" %}
+      </div>
     </div>
-</div>
-
-2. Sauvegarder en format .CSV (en utilisant des point-virgule en guise de séparateur de champs)
-** Rappel : pas d'espace ou de caractère spécial dans le nom du fichier ! **
+  </li>
+  <li>Sauvegarder en format .CSV (en utilisant des point-virgule en guise de séparateur de champs)<br>
+** Rappel : pas d'espace ou de caractère spécial dans le nom du fichier ! **</li>
+</ol> 
 
 ## Envoyer un mailing avec Mail Merge dans Thunderbird
-Installer le module complémentaire , [mailmerge](https://addons.mozilla.org/fr/thunderbird/addon/mail-merge/)
+Installer le module complémentaire [mailmerge](https://addons.mozilla.org/fr/thunderbird/addon/mail-merge/)
 
-1. Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades : `{{ }}`.
-  - Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données : ex :`{{Mail}}` 
+
+1. Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades : {{ }}.
+  - Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données : ex :{{Mail}} 
   - Ajouter un sujet 
-  - Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades. Exemple : //`Cher {{prenom}} {{nom}} je prends contact avec vous ,….` 
+  - Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades. Exemple : Cher {{prenom}} {{nom}} je prends contact avec vous ,….
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
