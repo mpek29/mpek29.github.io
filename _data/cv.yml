@@ -4,19 +4,21 @@
     - name: Nom et prénom
       value: Florian Pasco
     - name: Email
-      value: florianpasco@protonmail.com
+      value: f0pasco@enib.fr
     - name: Portable
       value: 07 67 64 79 28
     - name: Permis B
       value: oui
     - name: Date de naissance
       value: 15 Juillet 2002
-    - name: Langues
-      value: Anglais(Avancé), Espagnol(Indépendant), Allemand(Débutant)
     - name: Compétences techniques
       value: Linux, C, C++, Python,Electronique analogique, SQLite3, Qt, Java, Kotlin, Rust, Git, Electronique numérique(STM32) et Conception mécanique (CAO)
     - name: Compétences relationnelles
       value: Esprit d’équipe, Rigueur, Partage de compétences, Force de proposition et Respect des délais
+    - name: Langues
+      value: Anglais(Avancé), Espagnol(Indépendant), Allemand(Débutant)
+    - name: Passe-temps
+      value: Impression 3D, Programmation Informatique/Arduino et Cyclisme
 - title: Expériences professionnelles
   type: time_table
   contents:
@@ -34,11 +36,26 @@
         - Surveillance de ligne
         - Réparation élémentaire (déblocage de la machine, aide du technicien au changement de pièce et au réglage)
         - Remplissage des documents de suivi de la machine
+- title: Engagement associatif
+  type: time_table
+  contents:
+    - title: Secrétaire | Responsable du fournisseur "CROUS
+      institution: Cafétéria ENIB, Brest, France
+      year: 02/2022 – 02/2023
+      description:
+        - Préparation d’événements étudiants
+        - Commande auprès d’une partie de nos fournisseurs, la gestion du stock
+    - title: Bénévole
+      institution: Union Cycliste Inguinieloise
+      year: 09/2008 – 09/2019
+      description:
+        - Vente des programmes des événements sportifs
+        - Participation au maintien de la sécurité sur les pourtours du circuit
 
 - title: Formation
   type: time_table
   contents:
-    - title: Diplôme d’ingénieur en mécanique, électronique et informatique
+    - title: Diplôme d'ingénieur généraliste systèmes en électronique, informatique et mécatronique}{| ENIB
       institution: École nationale d’ingénieurs de Brest (ENIB), Brest, France
       year: 09 2020 – en cours
       description:
@@ -52,10 +69,9 @@
 - title: Loisirs
   type: nested_list
   contents:
-    - title: ENIB Cafeteria Association.
+    - title: Impression 3D
       items: 
-        - Secrétaire.
-        - Responsable de l’approvisionnement "CROUS".
+        - Modélisation 3D et poste sur Thingiverse
     
     - title: Programation Informatique/Arduino.
       items:
