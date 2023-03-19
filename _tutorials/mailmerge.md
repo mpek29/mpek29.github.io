@@ -32,9 +32,9 @@ Installer le module complémentaire [mailmerge](https://addons.mozilla.org/fr/th
 
 <ol>
   <li>
-    <p>Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades : {{ }}.</p>
+    <p>Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades : « {{ }} » .</p>
     <ul>
-      <li>Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données : ex :{{Mail}}</li>
+      <li>Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données : ex : « {{Mail}} » </li>
       <li>Ajouter un sujet</li>
       <li>Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades. Exemple :Cher {{prenom}} {{nom}} je prends contact avec vous ,….
         <div class="row">
