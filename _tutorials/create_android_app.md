@@ -5,7 +5,7 @@ importance: 1
 ---
 Si vous souhaitez réaliser une application android de toute sorte, vous pouvez utiliser le langage Kotlin et le logiciel Android Studio. Sur cette page, je vais vous décrire comment faire de façon optimale (à mes yeux) pour réaliser une application Android.
 
-### Méthode
+## Méthode
 Pour créer une application Android,
 
 1. Réaliser une maquette sur figma (pour aller plus vite je vous conseil de dupliquer la mienne : <https://www.figma.com/community/file/1209553718708408305>

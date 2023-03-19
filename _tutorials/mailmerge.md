@@ -1,0 +1,53 @@
+---
+layout: page
+title: Envoi massif et personnalisé depuis Thunderbird
+importance: 2
+---
+Si vous souhaitez réaliser un envoi massif et personnalisé de mail depuis Thunderbird, vous pouvez utiliser le module Mail Merge. Sur cette page, je vais vous décrire comment faire usage de ce module.
+
+## Installer Mail Merge
+1. Installer [Thunderbird](https://www.thunderbird.net) et lancer le.
+2. Aller dans menu **Outils** > ** Modules Complémentaires ** .
+3. Rechercher "Mail Merge".
+4. Cliquer sur le bouton **Ajouter à Thunderbird** .
+
+
+## Créer la source de données dans un tableur
+Attention, il est à noter que cette extension de Thunderbird ne supporte pas les espaces et les caractères accentués que ce soit dans les noms de fichiers (fichier .csv source de données ou fichiers pièces jointes) ou dans les noms de colonnes de la source de données.
+
+1. Créer dans un tableur les différentes colonnes correspondant aux champs utiles pour le mail. Chaque colonne doit avoir un en-tête nommé ; nom, prenom, message, etc … Ces noms de colonnes ne doivent pas contenir d'espaces ou de caractères accentués. Compléter ensuite chaque colonnes avec les données personnalisés de chaque destinataires du mailing.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tutorials/mailmerge/mailmerge-1_1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+2. Sauvegarder en format .CSV (en utilisant des point-virgule en guise de séparateur de champs)
+** Rappel : pas d'espace ou de caractère spécial dans le nom du fichier ! **
+
+## Envoyer un mailing avec Mail Merge dans Thunderbird
+Installer le module complémentaire , [mailmerge](https://addons.mozilla.org/fr/thunderbird/addon/mail-merge/)
+
+1. Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades : `{{ }}`.
+  - Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données : ex :`{{Mail}}` 
+  - Ajouter un sujet 
+  - Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades. Exemple : //`Cher {{prenom}} {{nom}} je prends contact avec vous ,….` 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tutorials/mailmerge/mailmerge-1_2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+2. Cliquer sur **Fichier** puis **Mail Merge** et choisir **CSV**. 
+  - Cliquer sur **Parcourir** et indiquer le chemin vers le fichier .csv créé plus haut qui contient les données utiles au mailing. 
+  - Dans le champ « Attachements », indiquer l'en-tête correspondant à la liste des fichiers (par exemple `{{Fichiers}}` précédé de **`file://`** seront utilisés comme pièces-jointes pour chaque envoi. Ces pièces-jointes pourront être différentes pour chaque message. Cliquer sur **OK** pour valider l'envoi immédiat des mails. 
+  - En choisissant comme **Mode  de Livraison**: **Envoyer plus tard** ; les messages seront stockés dans **« Messages en attente »**. Cela permettra de vérifier l'exactitude des données. L'envoi définitif se fera en choisissant : **Fichier** > **Envoyer les messages en attente**
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tutorials/mailmerge/mailmerge.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+## Source
+- <https://wiki.enib.fr/dsi/doku.php?id=cri:thunderbird:mailmerge>
