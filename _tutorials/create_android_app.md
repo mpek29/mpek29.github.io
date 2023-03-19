@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Réaliser une application Android de toute sorte
-importance: 2
+importance: 1
 ---
 Si vous souhaitez réaliser une application android de toute sorte, vous pouvez utiliser le langage Kotlin et le logiciel Android Studio. Sur cette page, je vais vous décrire comment faire de façon optimale (à mes yeux) pour réaliser une application Android.
 
