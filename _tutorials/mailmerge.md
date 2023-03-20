@@ -36,7 +36,7 @@ Installer le module complémentaire [mailmerge](https://addons.mozilla.org/fr/th
     <ul>
       <li>Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données.» </li>
       <li>Ajouter un sujet</li>
-      <li>Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades. Exemple :Cher {{prenom}} {{nom}} je prends contact avec vous ,….
+      <li>Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades.
         <div class="row">
           <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/tutorials/mailmerge/mailmerge-1_2.png" class="img-fluid rounded z-depth-1" %}
