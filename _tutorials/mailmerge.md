@@ -32,9 +32,9 @@ Installer le module complémentaire [mailmerge](https://addons.mozilla.org/fr/th
 
 <ol>
   <li>
-    <p>Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades : « {{ }} » .</p>
+    <p>Créer un nouveau message. Chaque champ du tableur qui doit figurer dans le message doit être encadré par une paire de doubles-accolades.</p>
     <ul>
-      <li>Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données : ex : « {{Mail}} » </li>
+      <li>Dans le champ **Pour** (destinataire) : entrer le champ correspondant aux adresses mail listées dans le fichier de données.» </li>
       <li>Ajouter un sujet</li>
       <li>Rédiger le brouillon du message, en insérant tous les champs utiles du tableur dans le corps du message, utiliser les doubles-accolades. Exemple :Cher {{prenom}} {{nom}} je prends contact avec vous ,….
         <div class="row">
@@ -50,7 +50,7 @@ Installer le module complémentaire [mailmerge](https://addons.mozilla.org/fr/th
     <p>Cliquer sur **Fichier** puis **Mail Merge** et choisir **CSV**.</p>
     <ul>
       <li>Cliquer sur **Parcourir** et indiquer le chemin vers le fichier .csv créé plus haut qui contient les données utiles au mailing.</li>
-      <li>Dans le champ « Attachements », indiquer l'en-tête correspondant à la liste des fichiers (par exemple `{{Fichiers}}` précédé de **`file://`** seront utilisés comme pièces-jointes pour chaque envoi. Ces pièces-jointes pourront être différentes pour chaque message. Cliquer sur **OK** pour valider l'envoi immédiat des mails.</li> 
+      <li>Dans le champ « Attachements », indiquer l'en-tête correspondant à la liste des fichiers. Cliquer sur **OK** pour valider l'envoi immédiat des mails.</li> 
       <li>
         En choisissant comme **Mode  de Livraison**: **Envoyer plus tard** ; les messages seront stockés dans **« Messages en attente »**. Cela permettra de vérifier l'exactitude des données. L'envoi définitif devra se faire en choisissant : **Fichier** > **Envoyer les messages en attente**
         <div class="row">
