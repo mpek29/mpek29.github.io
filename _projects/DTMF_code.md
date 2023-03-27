@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reconnaissance vocal
+title: Reconnaissance sonore
 description: Outil mathématique en Python
 img: assets/img/projects/DTMF_code/main.jpg
 importance: 5
