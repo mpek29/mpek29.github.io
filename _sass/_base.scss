@@ -9,7 +9,7 @@
  --global-footer-text-color: #e8e8e8;
  --global-footer-link-color: #fff;
  --global-distill-app-color: #828282;
- --global-divider-color: rgba(0,0,0,.1);
+ --global-divider-color: rgba(0, 0, 0, 0.64);
  --global-card-bg-color: #fff
 }
 :root .fa-sun {
@@ -474,7 +474,7 @@ footer.sticky-bottom {
  margin-bottom:10px
 }
 .projects h2.category {
- color:var(--global-divider-color);
+ color: var(--global-text-color);
  border-bottom:1px solid var(--global-divider-color);
  padding-top:0.5rem;
  margin-top:2rem;
