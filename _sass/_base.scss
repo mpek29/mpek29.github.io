@@ -79,6 +79,11 @@ body.sticky-bottom-footer {
 .profile img {
  width:100%
 }
+.img-fluid {
+  width: 385px;
+  margin: auto;
+  display: flex;
+}
 .ul-cheatsheet {
  padding-left: 0px;
 }
@@ -145,11 +150,9 @@ a:hover:after :not(.nav-item.dropdown),
 table.table a:hover:after :not(.nav-item.dropdown) {
  width:100%
 }
-figure, img {
-  max-width: 90vw;
-  width: 385px;
-  margin: auto;
-  display: flex;
+figure,
+img {
+  max-width:90vw
 }
 blockquote {
  background:var(--global-bg-color);
