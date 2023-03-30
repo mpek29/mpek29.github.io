@@ -145,9 +145,11 @@ a:hover:after :not(.nav-item.dropdown),
 table.table a:hover:after :not(.nav-item.dropdown) {
  width:100%
 }
-figure,
-img {
-  max-width:90vw
+figure, img {
+  max-width: 90vw;
+  width: 385px;
+  margin: auto;
+  display: flex;
 }
 blockquote {
  background:var(--global-bg-color);
