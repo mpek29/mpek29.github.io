@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [EN COURS] Pont en H
+title: EN COURS Pont en H
 description: Contrôleur moteur pour voiture télécommandée
 img: assets/img/projects/h_bridge/main.jpg
 importance: 2
