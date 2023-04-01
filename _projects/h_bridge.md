@@ -40,7 +40,7 @@ Si on inverse la polarité, ce sont les deux autres transistors qui deviennent c
 
 {% include figure.html path="assets/img/projects/h_bridge/3.jpg" class="img-fluid rounded z-depth-1" %}
 
-Nous faisons le choix d'ajouter des diodes afin de protéger le microcontrôleur contre les courants générés par la rotation du moteur.
+Nous faisons le choix d'ajouter des diodes afin de protéger le microcontrôleur ainsi que les transistors contre les courants générés par la rotation du moteur.
 
 {% include figure.html path="assets/img/projects/h_bridge/4.jpg" class="img-fluid rounded z-depth-1" %}
 

@@ -8,7 +8,7 @@ Si vous souhaitez réaliser une application android de toute sorte, vous pouvez 
 ## Méthode
 Pour créer une application Android,
 
-1. Réaliser une maquette sur figma (pour aller plus vite je vous conseil de dupliquer la mienne : <https://www.figma.com/community/file/1209553718708408305>
+1. Réaliser une maquette sur figma (pour aller plus vite je vous conseille de dupliquer la mienne : <https://www.figma.com/community/file/1209553718708408305>
 
 2. Créer un projet sur Android Studio en choisissant le template "Empty Activity"
 
@@ -16,7 +16,7 @@ Pour créer une application Android,
 
 4. Modifier l'activité principale enfin de permettre de passer d'une activité à une autre. Pour cela une navigation view est très pratique, mais vous pouvez également faire usage d'un `when()`.
 
-5. Réaliser un système de base de données (je vous conseil SQlite3 qui est open-source, mais il existe firebase aussi.)
+5. Réaliser un système de base de données (je vous conseille SQlite3 qui est open-source, mais il existe firebase aussi.)
 Attention, Sqlite3 crée une bdd en local alors que Firebase en crée une en ligne.
 
 6. Créer une interface pour ajouter ou modifier quelque chose dans une base de données
