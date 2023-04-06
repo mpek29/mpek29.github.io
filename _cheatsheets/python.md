@@ -71,7 +71,7 @@ On peut parcourir ainsi une liste de façon on ne peut plus classique.
 ``` python
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
-  print(x)
+  print(fruit)
 ```
 
 On peut incrémenter une valeur au fur et à mesure des répétitions d'un boucle grâce à range().
