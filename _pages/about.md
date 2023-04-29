@@ -19,7 +19,7 @@ Ici, je compte présenter la plupart de mes projets afin de faire un état des l
 
 En-dehors du monde de la technologie, j'apprécie aussi me perfectionner intellectuellement de diverses manières. Mes passe-temps vont du cyclisme, de la réparation de vieux vélos, de la pétanque à d'autres plus sociaux comme la participation à plusieurs associations.
 
-Je m'intéresse également à des livres ou reportage sur la permaculture, le fédéralisme et l'autosuffisance.
+Je m'intéresse également à des livres ou reportage sur l'Institut polaire français, l'auto-formation et la réparation d'objets.
 
 J'adore voyager et découvrir de nouvelles choses. À la fois dans un rayon proche à pied et à vélo, mais aussi en expédition avec mon vélo et ma tente !
 
