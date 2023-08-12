@@ -90,7 +90,7 @@ for i in range(len(fruits)):
 
 ## Fonctions
 
-### Création
+### Définition
 Pour définir une fonction, on utilise le mot-clé `def`.
 ``` python
 def my_function():
