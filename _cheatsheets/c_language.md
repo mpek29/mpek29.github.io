@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Language C
-importance: 1
+importance: 3
 ---
 Coming soon

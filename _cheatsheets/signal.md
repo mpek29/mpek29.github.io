@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Signal
-importance: 1
+importance: 7
 ---
 Coming soon

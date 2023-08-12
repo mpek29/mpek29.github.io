@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Automatique / Asservissements 
-importance: 1
+importance: 5
 ---
 Coming soon
