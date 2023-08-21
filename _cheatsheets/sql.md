@@ -1,6 +1,6 @@
 ---
 layout: page
 title: SQL
-importance: 8
+importance: 9
 ---
 Coming soon

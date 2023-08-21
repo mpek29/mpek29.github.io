@@ -115,7 +115,7 @@ my_function(florian_nickname)
 my_function("La Torche")
 my_function("Alphonse") 
 ```
-L'exemple ci-dessus présente une fonction avec un seul argument nommé "fname". À chaque fois que nous réalisons un appel de la fonction, nous transmettons un prénom, qui est utilisé à l'intérieur de la fonction pour imprimer le nom complet.
+L'exemple ci-dessus présente une fonction avec un seul argument nommé "nickname". À chaque fois que nous réalisons un appel de la fonction, nous transmettons un prénom, qui est utilisé à l'intérieur de la fonction pour afficher dans le terminal le nom complet.
 
 ### Récursivité
 Une fonction est dite récursive si elle s'appelle elle-même.
@@ -134,4 +134,4 @@ print(puissance(2, 3))
 ```
 
 ## Source
-- <https://www.w3schools.com/python/python_reference.asp>
+- <https://www.w3schools.com/python/default.asp>

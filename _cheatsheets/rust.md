@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Rust
-importance: 6
+importance: 7
 ---
 Coming soon

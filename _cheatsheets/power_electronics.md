@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Electronique de puissance
-importance: 4
+importance: 5
 ---
 Coming soon
