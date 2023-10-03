@@ -19,7 +19,6 @@ importance: 2
 - Impedance généralisée : $$ Z_C=\frac{1}{jC\omega} $$
 
 ### Bobine
-
 {% include figure.html path="assets/img/cheatsheets/analogue_electronics/inductor.svg" class="img-fluid rounded z-depth-1" style="background-color: white;" %}
 - Modèle : $$ u(t)=L\frac{di(t)}{dt} $$
 - Impedance généralisée: $$ Z_L=jL\omega $$
@@ -29,7 +28,6 @@ importance: 2
 {% include figure.html path="assets/img/cheatsheets/analogue_electronics/serie.svg" class="img-fluid rounded z-depth-1" style="background-color: white;" %}
 
 - Impedance généralisée équivalente :
-
 $$
 Z_{eq}=Z_1+Z_2
 $$
@@ -38,7 +36,6 @@ $$
 {% include figure.html path="assets/img/cheatsheets/analogue_electronics/parallel.svg" class="img-fluid rounded z-depth-1" style="background-color: white;" %}
 
 - Impedance généralisée équivalente :
-
 $$
 \frac{1}{Z_{eq}}= \frac{1}{Z_1} + \frac{1}{Z_2}
 $$
@@ -47,7 +44,6 @@ $$
 {% include figure.html path="assets/img/cheatsheets/analogue_electronics/voltage_divider.svg" class="img-fluid rounded z-depth-1" %}
 
 - Mise en équation :
-
 $$
 \frac{V_2(j\omega)}{V_1(j\omega)} = \frac{Z_2}{Z_1+Z_2}
 $$
@@ -56,7 +52,6 @@ $$
 {% include figure.html path="assets/img/cheatsheets/analogue_electronics/node.svg" class="img-fluid rounded z-depth-1" style="background-color: white;" %}
 
 - Mise en équation :
-
 $$
 \frac{V_1(j\omega)-V_A(j\omega)}{Z_1} + \frac{V_2(j\omega)-V_A(j\omega)}{Z_2} + \frac{V_3(j\omega)-V_A(j\omega)}{Z_3} = 0
 $$
