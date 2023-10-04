@@ -41,7 +41,7 @@ $$
 $$
 
 ### Pont diviseur
-{% include figure.html path="assets/img/cheatsheets/analogue_electronics/voltage_divider.svg" class="img-fluid" %}
+{% include figure.html path="assets/img/cheatsheets/analogue_electronics/voltage_divider.svg" class="img-fluid" style="background-color: white; width: 200px;"%}
 
 - Mise en équation :
 $$
@@ -49,7 +49,7 @@ $$
 $$
 
 ### Potentiel des noeuds
-{% include figure.html path="assets/img/cheatsheets/analogue_electronics/node.svg" class="img-fluid" %}
+{% include figure.html path="assets/img/cheatsheets/analogue_electronics/node.svg" class="img-fluid" style="background-color: white; width: 300px;"%}
 
 - Mise en équation :
 $$
