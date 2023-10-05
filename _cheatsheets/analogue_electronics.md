@@ -71,27 +71,23 @@ Pour faciliter l'analyse du cicuit, on va le réécrire :
 {% include figure.html path="assets/img/cheatsheets/analogue_electronics/RLC_LP_serie.svg" class="img-fluid" style="background-color: white; width: 300px;"%}
 
 ### Mise en équation du circuit
-1. Pour commencer, on calcul la ou les résistances équivalentes
+- Pour commencer, on calcul la ou les résistances équivalentes
 $$
 Z_{eq}=Z_1+Z_2
 $$
 
 
-2. Ici, on constate que l'on a un pont diviseur, on peut donc récupérer l'équation plus haut
+- Ici, on constate que l'on a un pont diviseur, on peut donc récupérer l'équation plus haut
 $$
 \frac{V_2(j\omega)}{V_1(j\omega)} = \frac{Z_3}{Z_{eq}+Z_3}
 $$
 
-3. On obtient notre fonction de transfert en remplaçant ce qui peut l'être
+- On obtient notre fonction de transfert en remplaçant ce qui peut l'être
 $$
 \frac{V_2(j\omega)}{V_1(j\omega)} = \frac{jC\omega}{R+jL\omega+\frac{1}{jC\omega}}
 $$
 
-4. Finalement, on peut chercher à obtenir la forme normalisée ("+1" au dénominateur)
-$$
-\frac{V_2(j\omega)}{V_1(j\omega)} = \frac{jC\omega * jC\omega}{R * jC\omega+ jL\omega * jC\omega + 1}
-$$
-
+- Finalement, on peut chercher à obtenir la forme normalisée ("+1" au dénominateur)
 $$
 \frac{V_2(j\omega)}{V_1(j\omega)} = \frac{-C^2\omega^2}{jRC\omega - LC\omega^2 + 1}
 $$
