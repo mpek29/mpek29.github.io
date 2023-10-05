@@ -96,7 +96,5 @@ $$
 \frac{V_2(j\omega)}{V_1(j\omega)} = \frac{-C^2\omega^2}{jRC\omega - LC\omega^2 + 1}
 $$
 
-
-
 ## Source
 - <https://vincentchoqueuse.github.io/cheatsheet_elec/courses/rappels/circuits_analysis.html>
