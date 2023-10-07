@@ -32,13 +32,14 @@ const float PI = 3.14;
 ## Les principaux types de données
 Voici les principaux types de données.
 
-|   **Types de données**     |         **Exemple**         |
+| **Types de données**       | **Exemple**                 |
 |--------------------------  |---------------------------  |
 | `int`                      | 123 ou -123                 |
 | `double`                   | 19.99 ou -19.99             |
 | `char`                     | 'a' ou 'B'                  |
 | `string`                   | "Hello World"               |
 | `bool`                     | True ou False               |
+
 Pour utiliser les `string`, vous devez inclure un fichier d'en-tête supplémentaire dans le code source, la bibliothèque `<string>` :
 ``` cpp
 // Include the string library
