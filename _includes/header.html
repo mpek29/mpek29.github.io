@@ -104,16 +104,25 @@
                 </button>
               </li>
               {%- endif %}
+              
+              <!-- Toogle language mode -->
+              <li class="nav-item ">
+                <!--<a class="nav-link" href="https://mpek29.github.io/fr/" style="padding-bottom: 0.4rem;padding-top: 0.4rem;"><img alt="FR" title="FR" src="assets/img/languages/fr.gif" style="padding-left: 6px;padding-right: 6px;"></a>-->
+                <a class="nav-link" href="https://mpek29.github.io/en/" style="padding-bottom: 0.4rem;padding-top: 0.4rem;"><img alt="EN" title="EN" src="assets/img/languages/en.gif" style="padding-left: 6px;padding-right: 6px;"></a>
+              </li>
+
             </ul>
           </div>
         </div>
       </nav>
-{% if site.enable_progressbar %}
+
+      {% if site.enable_progressbar %}
       <!-- Scrolling Progress Bar -->
       <progress id="progress" value="0">
         <div class="progress-container">
           <span class="progress-bar"></span>
         </div>
       </progress>
-{%- endif %}
+      {%- endif %}
+
     </header>
