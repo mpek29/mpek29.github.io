@@ -112,7 +112,6 @@ def my_function(nickname):
 
 florian_nickname = "Palpek"
 my_function(florian_nickname)
-my_function("La Torche")
 my_function("Alphonse") 
 ```
 L'exemple ci-dessus présente une fonction avec un seul argument nommé "nickname". À chaque fois que nous réalisons un appel de la fonction, nous transmettons un prénom, qui est utilisé à l'intérieur de la fonction pour afficher dans le terminal le nom complet.
