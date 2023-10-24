@@ -215,7 +215,6 @@ void my_function(const std::string &nickname) {
 int main() {
     std::string florian_nickname = "Palpek";
     my_function(florian_nickname);
-    my_function("La Torche");
     my_function("Alphonse");
 
     return 0;
