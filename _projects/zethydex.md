@@ -5,6 +5,7 @@ description: Application Android Open-Source en Kotlin
 img: assets/img/projects/zethydex/main.jpg
 importance: 1
 git: ZEthyDex
+store: zethydex
 category: 2022
 ---
 
@@ -13,8 +14,6 @@ Durant mon été 2022, je me suis fixé comme objectif de réaliser ma première
 J'ai donc grâce à Android Studio réalisé cette application avec le langage Kotlin et en utilisant SQLite afin de stocker toutes ses données.
 
 Cette application est un utilitaire dans lequel on peut créer un mini profil pour chacun de nos amis un peu comme dans un PokéDex ! Le but étant d'enregistrer des informations sur nos amis (notamment leurs appartements et leurs boissons préférées afin de leur en offrir à l'occasion d'un passage chez eux).
-
-Voici [la page](https://play.google.com/store/apps/details?id=fr.mpek29.zethydex&hl=fr) sur laquelle j'ai publié le jeu !
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
