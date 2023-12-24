@@ -88,7 +88,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-discord_id: Flo15#1161 # your discord id (18-digit unique numerical identifier)
+discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note:
 
@@ -110,12 +110,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  tutorials:
-    output: true
-    permalink: /tutorials/:path/
-  cheatsheets:
-    output: true
-    permalink: /cheatsheets/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
