@@ -364,18 +364,18 @@ footer.sticky-bottom {
  padding-bottom:40px;
  font-size:0.9rem
 }
-.cv {
+.resume {
  margin-bottom:40px
 }
-.cv .card {
+.resume .card {
  background-color:var(--global-card-bg-color);
  border:1px solid var(--global-divider-color)
 }
-.cv .card .list-group-item {
+.resume .card .list-group-item {
  background-color:inherit;
  border-color:var(--global-divider-color)
 }
-.cv .card .list-group-item .badge {
+.resume .card .list-group-item .badge {
  color:var(--global-card-bg-color) !important;
  background-color:var(--global-theme-color) !important
 }
