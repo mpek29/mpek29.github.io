@@ -6,10 +6,10 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: PASCO
 middle_name: 
 last_name: Florian
-email: florianpasco@protonmail.com
+email: f0pasco@enib.fr
 description: >
-  Voici mon portfolio ! Ici vous avez accès à une présentation de mes différents projets mais aussi à différents tutoriels et cheatsheets que j'ai rédigé.
-keywords: portfolio, projects, projets, tutoriels, tutorials, florianpasco, student, french, cheatsheets
+  Voici mon portfolio ! Ici vous avez accès à une présentation de nombreux projets que j’ai pu faire seul ou avec des collègues par le passé.
+keywords: portfolio, projets, florianpasco, étudiant, français, embedded system, système embarqué
 
 lang: fr
 icon: favicon.jpg
