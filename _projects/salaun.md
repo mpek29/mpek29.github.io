@@ -4,7 +4,8 @@ title: Salaun
 description: RPG en Unity C#
 img: assets/img/projects/salaun/main.jpg
 importance: 4
-category: Programmation informatique(Python - Rust - Unity C# - Kotlin - SQLite3)
+category: 2018
+store: https://light1.itch.io/salaun
 ---
 
 Salaun est un jeu narratif à la troisième personne dans lequel le joueur vit l'histoire d'un jeune Breton qui a terminé ses études.
