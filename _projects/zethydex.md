@@ -5,7 +5,7 @@ description: Application Android Open-Source en Kotlin
 img: assets/img/projects/zethydex/main.jpg
 importance: 1
 git: ZEthyDex
-store: zethydex
+store: https://play.google.com/store/apps/details?id=fr.mpek29.zethydex
 category: 2022
 ---
 
