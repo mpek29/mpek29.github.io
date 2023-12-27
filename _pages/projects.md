@@ -5,7 +5,7 @@ permalink: /projects/
 description: Voici une liste des projets que j'ai réalisé ou auxquels j'ai participé.
 nav: true
 nav_order: 2
-display_categories: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
+display_categories: [2024, 2023, 2022, 2021, 2020, 2019, 2018]
 ---
 
 <!-- pages/projects.md -->
