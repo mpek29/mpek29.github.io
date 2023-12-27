@@ -8,7 +8,7 @@ category: 2018
 store: https://light1.itch.io/salaun
 ---
 
-Salaun est un jeu narratif à la troisième personne. Je l'ai réalisé en auto-apprentissage durant mes années de lycée (en 2028 précisément) ce qui fut ma première expérience concrète en développement informatique.
+Salaun est un jeu narratif à la troisième personne. Je l'ai réalisé en auto-apprentissage durant mes années de lycée (en 2018 précisément) ce qui fut ma première expérience concrète en développement informatique.
 Dans ce jeu, l'utilisateur vie l'histoire d'un jeune Breton ayant terminé ses études.
 Sa mission est d'interagir avec les PNJ et de découvrir les différents aspects du jeu.
 Ce jeu est graphiquement inspiré du célèbre jeu "Unturned".
