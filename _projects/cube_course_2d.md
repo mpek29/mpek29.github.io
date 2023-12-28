@@ -7,12 +7,12 @@ importance: 1
 category: 2020
 ---
 
-Durant ma première année de cycle préparatoire au sein de l'Ecole Nationale D'Ingénieurs de Brest (ENIB), j'ai eu l'occasion de réaliser ,avec un de mes camarades de classe, un jeu, Cube Course 2D. Ce jeu est un jeu de plates-formes dans lequel le joueur doit rester en vie le plus longtemps.
+Durant ma première année de cycle préparatoire au sein de l'École Nationale d'Ingénieurs de Brest (ENIB), j'ai eu l'occasion de réaliser, avec un de mes camarades de classe, un jeu, Cube Course 2D. Cube Course 2D est un jeu de plates-formes dans lequel le joueur doit rester en vie le plus longtemps.
 
 Le but étant de sauter de plateforme en plateforme, mais attention celles-ci sont générées aléatoirement ce qui empêche le joueur de facilement les anticipés. Il doit également prendre garde aux ennemis qui sont présents eux aussi aléatoirement.
 
 La seule façon de survivre aux ennemis ?
-Sauter sur leur tête sinon le jouer sera détruit.
+Sauter sur leur tête sinon le joueur sera détruit.
 
 Ce jeu est, dans son concept, inspiré du célèbre jeu "Geometry Dash".
 
