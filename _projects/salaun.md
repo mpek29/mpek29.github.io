@@ -3,7 +3,7 @@ layout: page
 title: Salaun
 description: RPG en Unity C#
 img: assets/img/projects/salaun/main.jpg
-importance: 4
+importance: 1
 category: 2018
 store: https://light1.itch.io/salaun
 ---
