@@ -4,7 +4,7 @@ title: Cube Course 2D
 description: Jeu de plateforme en Python
 img: assets/img/projects/cc2d/main.jpg
 importance: 1
-category: 2020
+category: 2021
 ---
 
 Durant ma première année de cycle préparatoire au sein de l'École Nationale d'Ingénieurs de Brest (ENIB), j'ai eu l'occasion de réaliser, avec un de mes camarades de classe, un jeu, Cube Course 2D. Cube Course 2D est un jeu de plates-formes dans lequel le joueur doit rester en vie le plus longtemps.
