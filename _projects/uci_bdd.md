@@ -4,7 +4,7 @@ title: Base de données UCI
 description: Base de données SQLite3
 img: assets/img/projects/uci_bdd/main.jpg
 pdf: Pasco_UnionCyclisteInternationale.pdf
-importance: 2
+importance: 3
 category: 2022
 ---
 

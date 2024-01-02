@@ -3,7 +3,7 @@ layout: page
 title: Etude d'une antenne parabolique
 description: Equation de mouvement résultant de l'inertie de l'appareil
 img: assets/img/projects/parabolic_antenna/main.jpg
-importance: 4
+importance: 5
 pdf: parabolic_antenna.pdf
 category: 2022
 ---
