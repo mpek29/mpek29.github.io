@@ -11,6 +11,6 @@ Durant mon semestre 4 au sein de l’ENIB, dans le cadre de la matière dédiée
 
 Le Vuvuzela est un instrument de musique d’Afrique du Sud dont le son s'est avéré assez gênant durant la coupe du monde de football réalisée dans ce pays en 2010.
 
-Partant d'enregistrements originaux des matchs de cette coupe du monde, n'autre projet a été de préserver la voix des commentateurs tout en faisant disparaître la présence du vuvuzela.
+Partant d'enregistrements originaux des matchs de cette coupe du monde, notre projet a été de préserver la voix des commentateurs tout en faisant disparaître la présence du vuvuzela.
 
 Pour plus d'infos, cliquez en haut à droite pour ouvrir le pdf.
