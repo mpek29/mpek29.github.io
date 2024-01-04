@@ -3,7 +3,7 @@ layout: page
 title: Reconnaissance sonore
 description: Outil mathématique en Python
 img: assets/img/projects/DTMF_code/main.jpg
-importance: 3
+importance: 4
 pdf: DTMF_code.pdf
 category: 2022
 ---

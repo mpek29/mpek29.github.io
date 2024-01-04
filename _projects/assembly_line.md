@@ -3,7 +3,7 @@ layout: page
 title: Ligne d'assemblage
 description: Cahier des charges, Grafcet et IHM d'un système automatisé
 img: assets/img/projects/assembly_line/main.jpg
-importance: 5
+importance: 6
 category: 2022
 ---
 
