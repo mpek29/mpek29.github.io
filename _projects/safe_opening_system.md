@@ -4,7 +4,7 @@ title: Système d’ouverture de coffre
 description: Machine à état numérique
 img: assets/img/projects/safe_opening_system/main.jpg
 pdf: safe_opening_system.pdf
-importance: 8
+importance: 9
 category: 2022
 ---
 
