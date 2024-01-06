@@ -7,7 +7,7 @@ importance: 5
 category: 2022
 ---
 
-Durant mon semestre 4 au sein de l'ENIB, dans le cadre de la matière dédiée au espace euclidien, à la suite du projet "Reconnaissance sonore" qui vous pouvez retrouver sur ce site, mes collègues et moi avons eu l'occasion de travailler sur un projet faisant usage d'une base de "bichons" (ensemble de photo de chien et de chat). Avec cette base, il a été question de réaliser une image "synthétique" à partir d'une image d'origine choisis.
+Durant mon semestre 4 au sein de l'ENIB, dans le cadre de la matière dédiée au espace euclidien, à la suite du projet "Reconnaissance sonore" que vous pouvez retrouver sur ce site, mes collègues et moi avons eu l'occasion de travailler sur un projet faisant usage d'une base de "bichons" (ensemble de photo de chien et de chat). Avec cette base, il a été question de réaliser une image "synthétique" à partir d'une image d'origine choisis.
 
 Pour cela, nous avons exprimé notre image dans un espace euclidien ayant pour
 base la base de "bichons" (ensemble de photo de chien et de chat) qui a été rendu au préalable orthonormale. Cela a été possible en utilisant le produit scalaire associé à l'espace en question pour projeter la photo à synthétiser sur la base.
