@@ -3,8 +3,8 @@ layout: page
 title: Ligne d'assemblage
 description: Cahier des charges, Grafcet et IHM d'un système automatisé
 img: assets/img/projects/assembly_line/main.jpg
-importance: 7
-category: 2022
+importance: 2
+category: 2021
 ---
 
 Dans le cadre de mon cours d'automatisme du semestre 3 à l'ENIB, j'ai eu l'occasion d'automatiser une maquette de chaîne d’assemblage en milieu industriel à l'aide d'un API (Automate Programmable Industriel) de la marque Schneider Electric.
