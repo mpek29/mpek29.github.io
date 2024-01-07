@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Ant Uprising
-description: Jeu de platforme en Unity C#
+description: Platform game in Unity C#
 img: assets/img/projects/ant_uprising/main.jpg
-importance: 3
+importance: 1
 git: https://github.com/RomainFauvel/AntUpRising
 store: https://globalgamejam.org/2023/games/ant-uprising-underground-war-1
 category: 2023
 ---
 
-Ant Uprising : The Underground War est un petit jeu en 2D que j'ai réalisé avec une équipe de collègue de mon école d'ingénieur durant la Global Game Jam 2023. Dans ce jeu, vous incarnerez une fourmi dans une fourmilière recouverte de racines (le thème de la Jam était "Root"). Votre but est de récolter quelques fruits pour nourrir votre reine. Méfiez-vous, des ennemis seront là pour vous arrêter.
+Ant Uprising: The Underground War is a little 2D game I made with a team of colleagues from my engineering school during the Global Game Jam 2023. In this game, you play as an ant in a root-covered anthill (the theme of the Jam was "Root"). Your aim is to collect a few fruits to feed your queen. But beware, there are enemies out to stop you.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
