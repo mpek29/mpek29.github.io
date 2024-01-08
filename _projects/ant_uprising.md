@@ -3,7 +3,7 @@ layout: page
 title: Ant Uprising
 description: Jeu de platforme en Unity C#
 img: assets/img/projects/ant_uprising/main.jpg
-importance: 3
+importance: 1
 git: https://github.com/RomainFauvel/AntUpRising
 store: https://globalgamejam.org/2023/games/ant-uprising-underground-war-1
 category: 2023
