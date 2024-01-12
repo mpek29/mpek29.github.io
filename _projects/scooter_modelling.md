@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modélisation de scooter
-description: Modélisation, simulation et tests d'un système réels
+description: Modélisation, simulation et tests d'un système réel
 img: assets/img/projects/scooter_modelling/main.jpg
 importance: 3
 category: 2023
