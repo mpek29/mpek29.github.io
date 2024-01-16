@@ -23,11 +23,7 @@
       value: Sociable, Gestion du temps, Travail d'équipe, Passionné d'automatisation, Dévoué, Esprit de bricoleur, Confiance en soi, Autonome, Méthodique, Imaginatif, Esprit d’analyse, Curieux
     
     - name: Langue
-<<<<<<< HEAD
       value: Français(Langue maternelle), Anglais(Indépendant), German(Débutant)
-=======
-      value: Français(Langue maternelle), Anglais(Indépendant), Allemand(Débutant)
->>>>>>> 8fbdd84c3a140b9025e2ea81e588fda1ba48c939
     
     - name: Passe-temps
       value: Poésie, course à pied et cyclisme
