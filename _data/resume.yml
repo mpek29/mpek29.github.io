@@ -17,13 +17,13 @@
       value: 15 Juillet 2002
     
     - name: Compétences techniques
-      value: RTOS, CAD(Fusion, Catia), ARM CPU arch. (STM32), C/C++, Circuit sim. (SPICE), Python, TDB équipement, TkInter, GitLab/GitHub, Arduino, Raspberry Pi, SPI/I²C, impression 3D, bash/shell, RTL (VHDL), Office (PPT, Excel, Word), concept. PCB, Java
+      value: RTOS, CAD(Fusion, Catia), ARM CPU arch. (STM32), C/C++, Circuit sim. (SPICE), Python, TDB équipement, Tkinter, GitLab/GitHub, Arduino, Raspberry Pi, SPI/I²C, impression 3D, bash/shell, RTL (VHDL), Office (PPT, Excel, Word), concept. PCB, Java
     
     - name: Compétences sociales
       value: Sociable, Gestion du temps, Travail d'équipe, Passionné d'automatisation, Dévoué, Esprit de bricoleur, Confiance en soi, Autonome, Méthodique, Imaginatif, Esprit d’analyse, Curieux
     
     - name: Langue
-      value: Français(Langue maternelle), Anglais(Indépendant), German(Débutant)
+      value: Français(Natale), Anglais(Indépendant), German(Débutant)
     
     - name: Passe-temps
       value: Poésie, course à pied et cyclisme
