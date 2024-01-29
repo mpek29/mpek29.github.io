@@ -3,6 +3,7 @@ layout: page
 title: Haut-parleur portable Open source
 description: Conception d'un micrologiciel en C++, d'un circuit imprimé et d'un boîtier
 img: assets/img/projects/portable_speaker/main.jpg
+git: https://github.com/mpek29/portable_speaker
 importance: 1
 category: 2024
 ---
