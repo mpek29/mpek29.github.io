@@ -13,9 +13,6 @@ Pendant mon temps libre, j'ai souhaité mettre à profit mes compétences, acqui
 Dans le cadre de ce projet, j'ai procédé en 6 étapes :
 - Réalisation d'un schéma fonctionnel, suivi du schéma électronique du système.
 - Test du circuit sur breadbord (firmware de base pour les tests).
-- Conception du circuit imprimé du système sur KiCad.
+- Conception du circuit imprimé du système sur EasyEDA (le circuit actuel sera finalement très différent du définitif).
 - Lancement de la production du circuit imprimé (via JLCPCB).
-- Assemblage du circuit imprimé et tests sur banc d'essai.
 - Développement du firmware en C++ en utilisant le framework Arduino et PlatformIO.
-- Modélisation Fusion360 de l'ensemble du boîtier.
-- Impression 3D du boîtier.

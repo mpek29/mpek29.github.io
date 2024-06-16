@@ -18,6 +18,10 @@ layout: default
               <a href="{{ page.store | prepend: ''}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-store" style="margin-left: 10px;margin-right: 10px;"></i></a>
               {% endif %}
 
+              {% if page.web %}
+              <a href="{{ page.web | prepend: ''}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-globe" style="margin-left: 10px;margin-right: 10px;"></i></a>
+              {% endif %}
+
             </h1>
             <p class="post-description">{{ page.description }}</p>
           </header>
