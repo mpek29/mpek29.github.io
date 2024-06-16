@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Bidouille Camp Brest 2023
-description: Conception d'un micrologiciel en C++, d'un circuit imprimé et d'un boîtier
+description: Rassemblement de bricoleurs et de néophytes de la métropole Brestoise
 img: assets/img/projects/open_bidouille_camp_brest_2023/main.jpg
 web: https://obcb.infini.fr/
 importance: 1
