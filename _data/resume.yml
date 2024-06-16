@@ -5,56 +5,49 @@
       value: Florian Pasco
     
     - name: Adresse mail
-      value: f0pasco@enib.fr
+      value: pasco.florian.pro@gmail.com
     
     - name: Portable
       value: 07 67 64 79 28
     
-    - name: Permis
+    - name: Permis B
       value: oui
     
     - name: Date de naissance
       value: 15 Juillet 2002
     
     - name: Compétences techniques
-      value: RTOS, CAD(Fusion, Catia), ARM CPU arch. (STM32), C/C++, Circuit sim. (SPICE), Python, TDB équipement, Tkinter, GitLab/GitHub, Arduino, Raspberry Pi, SPI/I²C, impression 3D, bash/shell, RTL (VHDL), Office (PPT, Excel, Word), concept. PCB, Java
+      value: C/C++, Python, Circuit sim. (SPICE), GitLab/GitHub, LTSpice, ARM CPU arch. (STM32), Traitement du signal, PCB-Design (Eagle, Kicad)
     
     - name: Compétences sociales
-      value: Sociable, Gestion du temps, Travail d'équipe, Passionné d'automatisation, Dévoué, Esprit de bricoleur, Confiance en soi, Autonome, Méthodique, Imaginatif, Esprit d’analyse, Curieux
+      value: Autonome, Curieux, Esprit d'équipe, Sociable, Organisé, Sérieux
     
     - name: Langue
-      value: Français(Natale), Anglais(Indépendant), German(Débutant)
+      value: Français (Natif), Anglais (B2+), Espagnol (B1), Allemand (A2)
     
     - name: Passe-temps
-      value: Poésie, course à pied et cyclisme
+      value: Méditation, Course à pied & Entraînement musculaire, Lecture
 
 - title: Expérience professionnelle
   type: time_table
   contents:
-    - title: Stagiaire technicien R&D travaillant sur un projet d'UGV(véhicule terrestre sans pilote)
+    - title: Technicien R&D
       institution: AgriProTech, Quimperlé, France
       year: 26/06/23 - 01/09/23
       description:
-        - Utilisation du logiciel libre ArduPilot et des logiciels associés (Mission Planner et QGroundControl).
-        - Création de schémas électroniques et intégration dans le drone.
+        Mission | Travailler sur un projet de véhicule terrestre sans pilote (UGV)
+        - Utilisation du micrologiciel libre ArduPilot et des logiciels associés (Mission Planner et QGroundControl).
+        - Création de schémas électroniques, soudure et test des différentes parties (multimètre, oscilloscope).
         - Installation d'un GPS RTK (utilisation d'un Raspberry Pi) et d'un compas pour la navigation autonome.
-
-    - title: Stagiaire ouvrier du bâtiment
-      institution: LE DANVIC Constructions, Inguiniel, France
-      year: 01/22
-      description:
-        - Apprendre les rudiments de la maçonnerie.
-        - Pose de mortier, de béton, de coffrage et d'aggloméré.
-        - Conduite d'un camion à benne, chargement et transport du matériel de chantier.
 
 - title: Formation
   type: time_table
   contents:
-    - title: Diplôme d'ingénieur système (électronique, informatique et mécatronique)
+    - title: Diplôme d'ingénieur en électronique/informatique embarquée
       institution: École nationale d'ingénieurs de Brest, France
       year: 09/20 - en cours
       description:
-        - Diplôme attendu en 2025.
+        - Diplôme prévu pour décembre 2025.
 
     - title: BAC Scientifique Option SVT Spécialité ISN
       institution: Lycée Victor Hugo, Hennebont, France
