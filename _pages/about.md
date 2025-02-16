@@ -23,4 +23,4 @@ En-dehors du monde de la technologie, j'apprécie me perfectionner de diverses m
 
 Je m'intéresse également à des livres ou reportages sur l'Institut polaire français, l'auto-formation, le développement personnel et la réparation d'objets.
 
-J'adore voyager et découvrir de nouvelles choses. À la fois dans un rayon proche à pied et à vélo, mais aussi en expédition avec ma chère Peugeot 207 !
+J'adore voyager et découvrir de nouvelles choses. À la fois dans un rayon proche à pied et à vélo, mais aussi en expédition avec ma chère Peugeot 207!
