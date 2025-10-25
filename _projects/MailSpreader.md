@@ -81,6 +81,18 @@ mail-spreader linkedin-url-to-profil-json .	emplates\joblectronics_industries.y
 mail-spreader profil-url-to-metadata-json config.yaml profiles.json -o metadata.json
 ```
 
+### Split a large company dataset into multiple smaller JSON files
+
+
+
+```bash
+mail-spreader split-companies companies.json output_dir --chunk-size 50
+```
+
+> This command splits a JSON file containing  
+> `{ company_names, company_websites, company_about_texts }`  
+> into several synchronized JSON files, each containing a subset of the data.
+
 ### Extract emails automatically from metadata
 
 
