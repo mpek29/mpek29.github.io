@@ -12,8 +12,6 @@ subcategory: Software Development
 ---
 
 
-![App Preview](assets/images/main.png)
-
 **FlutterIoTManager** is a cross-platform Flutter application designed to manage multiple IoT devices. Users can add devices, navigate their profiles, switch between operational states, and configure associated parameters remotely over a local network or cloud connection.
 
 ## 🎯 Purpose
